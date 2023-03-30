@@ -1,0 +1,20 @@
+{/*             <div className="basis-1/2">
+              <p className="text-white text-xl lg:text-7xl font-extrabold text-start leading-relaxed">
+                Hola,
+                <span className='block'>Soy Guillermo Alberco Capistrano,</span>
+                Web Developer
+              </p>
+              <p className='text-white text-md  lg:text-2xl my-4 '>
+                Soy un desarrollador web, me considero una persona con iniciativa a superar problemas,ademas me gusta aprender nuevas tecnologias y llevar mis proyectos al siguiente nivel.
+              </p>
+              <div className="w-[120px] my-2 h-auto flex gap-3 fill-white">
+                <GitHub/>
+                <LinkedIn />
+                <WhatsApp />
+              </div>
+              <button className="border-2 text-2xl py-2 px-4 text-white mt-2 rounded-md hover:bg-black hover:text-white transition-all duration-300">
+                  Decargar CV
+              </button>
+            </div> */}
+
+{/*       <Image src={fondo} alt="fondo" className="z-10" /> */}
